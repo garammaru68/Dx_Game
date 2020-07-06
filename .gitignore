@@ -30,9 +30,3 @@
 *.exe
 *.out
 *.app
-
-# ignore want folder
-IgnoreFolder/
-
-# ignore file
-// *.file확장자
